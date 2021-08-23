@@ -1,0 +1,14 @@
+.idea/
+*.iml
+# OSX trash
+.DS_Store
+
+# Book build output
+_book/
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+game.db.json
